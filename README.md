@@ -1,8 +1,8 @@
 # 🏥 Hospital Management System (HMS)  
 *A smart, efficient, and patient-centric healthcare solution*  
 
-![HMS Dashboard Preview](<img width="504" alt="image" src="https://github.com/user-attachments/assets/d2007646-0df6-4fd4-8f33-063c823f0d7d" />)  
-*(Replace with actual screenshot path)*  
+<img width="504" alt="image" src="https://github.com/user-attachments/assets/d2007646-0df6-4fd4-8f33-063c823f0d7d" /> 
+ 
 
 ---
 
